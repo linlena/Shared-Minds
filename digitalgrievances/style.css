@@ -21,6 +21,16 @@ p {
     margin-top: 0;
 }
 
+img {
+    width: 10%;
+    height: auto;
+    top: 3050px;
+    left: 50px;
+    display: none;
+    position: absolute;
+    transform: rotate(-45deg);
+}
+
 .buttonContainer {
     display: flex;
     justify-content: center;
